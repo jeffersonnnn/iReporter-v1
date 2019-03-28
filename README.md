@@ -36,8 +36,8 @@ To install and run this project you would need to have installed:
 
 To run:
 ```
-$ git clone https://github.com/Chrismarcel/iReporter.git
-$ cd iReporter
+$ https://github.com/jeffersonnnn/iReporter-v1.git
+$ cd iReporter-v1
 $ npm install
 $ npm start
 ```
@@ -49,7 +49,7 @@ $ npm test
 
 ## Template UI
 
-You can see a hosted version of the template at [https://chrismarcel.github.io/iReporter/UI](https://jeffersonnnn.github.io/iReporter-v1/)
+You can see a hosted version of the template at [https://jeffersonnnn.github.io/iReporter-v1/](https://jeffersonnnn.github.io/iReporter-v1/)
 
 
 
